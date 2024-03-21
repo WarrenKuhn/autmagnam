@@ -1,0 +1,37 @@
+{
+  "name": "autmagnam",
+  "version": "1.0.0",
+  "description": "sinon library extension to stub whole object and interfaces",
+  "author": "DaishaStehr",
+  "homepage": "https://github.com/WarrenKuhn/autmagnam.git",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "laborum",
+    "sinon",
+    "ts-sinon",
+    "quia",
+    "interface mock",
+    "quisquam",
+    "stub",
+    "eos"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WarrenKuhn/autmagnam.git"
+  },
+  "main": "index.ts",
+  "dependencies": {
+    "typescript": "^2.6.2",
+    "ts-node": "^4.0.2",
+    "sinon": "^4.1.3",
+    "@types/sinon": "^4.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "sinon-chai": "^2.14.0",
+    "@types/chai": "^4.0.10",
+    "@types/mocha": "^2.2.44"
+  }
+}
